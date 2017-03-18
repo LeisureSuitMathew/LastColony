@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\UIController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BaseController.cs" Line="41" Column="16" />
+      <File FileName="Assets\Scripts\SurvivedTime.cs" Line="26" Column="39" />
+      <File FileName="Assets\Scripts\UIController.cs" Line="39" Column="35" />
+      <File FileName="Assets\Scripts\Needs\Panic.cs" Line="85" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
